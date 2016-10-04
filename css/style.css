@@ -1,0 +1,56 @@
+body {
+    background-color: #F2F1EF;
+}
+
+.pad {
+    padding-bottom: 50px;
+}
+
+.cards-row {
+    padding-top: 40px;
+    padding-bottom: 50px;
+    background: #eee
+}
+
+.thumbnail {
+    padding: 0;
+    border-radius: 0;
+    border: none;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12)
+}
+
+.thumbnail>img {
+    width: 100%;
+    display: block
+}
+
+.thumbnail h3 {
+    font-size: 26px
+}
+
+.thumbnail h3,
+.card-description {
+    margin: 0;
+    padding: 8px 0;
+    border-bottom: solid 1px #eee;
+    text-align: justify
+}
+
+.thumbnail p {
+    padding-top: 8px;
+    font-size: 20px
+}
+
+.thumbnail .btn {
+    border-radius: 0;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+    font-size: 20px
+}
+
+.media_title {
+    text-align: left;
+}
+
+.body_pad {
+    padding-bottom: 70px;
+}
